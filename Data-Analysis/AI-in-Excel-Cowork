@@ -1,0 +1,14 @@
+Create an Excel spreadsheet from:
+[DATA: file path, folder, or pasted data, best is to upload data].
+
+### Purpose:
+[Who uses this and what decision/task it supports — 1 sentence.]
+
+### Sheets needed:
+- "[Sheet name]": [columns, what each row represents, any calculations or formulas]
+- "[Sheet name]": [e.g., summary with totals, pivot, charts — or remove if only one sheet]
+
+### Formatting:
+[Currency/date formats, conditional highlighting, frozen header row, totals row — pick what applies.]
+
+Before building, list your top 10 assumptions so I can sanity-check them, then execute.
